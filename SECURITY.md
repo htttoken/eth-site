@@ -5,7 +5,7 @@
 
 If you discover a security issue related to HTTToken.eth, its subdomains, or this repository, please report it responsibly.
 
-- Email: info@htttoken.com
+- Email: support@htttoken.com
 - GitHub Issues: Please avoid posting critical security information publicly. Use email when in doubt.
 
 ## ENS/IPFS Protection
