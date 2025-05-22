@@ -58,4 +58,4 @@ We value clear, respectful collaboration. Disagreements are welcome but must be 
 
 ---
 
-Questions? Contact us at [info@htttoken.com](mailto:info@htttoken.com).
+Questions? Contact us at [support@htttoken.com](mailto:support@htttoken.com).
